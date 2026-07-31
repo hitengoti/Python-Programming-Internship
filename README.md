@@ -1,6 +1,6 @@
 # Python Programming Internship
 
-This repository contains the tasks completed during my **Python Programming Internship** at **Maincrafts Technology**. 0
+This repository contains the tasks completed during my **Python Programming Internship** at **Maincrafts Technology**.
 
 The purpose of this repository is to document my learning journey, improve my Python programming skills, and showcase the tasks assigned during the internship.
 
